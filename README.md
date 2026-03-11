@@ -23,6 +23,7 @@ Suppliers – Provide products and receive purchase orders from the company.
 
 2️- STORY CARDS (User Stories)
 User Story Cards
+
 Story 1 – Manage Products
 
 As a warehouse manager
