@@ -22,40 +22,53 @@ Customers – Purchase products and receive invoices and order confirmations.
 
 Suppliers – Provide products and receive purchase orders from the company.
 
-2️- STORY CARDS (User Stories)
-User Story Cards
-
-Story 1 – Manage Products
-
-As a warehouse manager
-I want to add, update or remove products
-So that the inventory is always accurate.
-
-Story 2 – Record Sales
-
-As a sales employee
-I want to register a sale and generate an invoice
-So that the system keeps track of daily sales.
-
-Story 3 –TRACK STOCK
+2️-USER CARDS (me shpjegim)
+User Cards
+ User Card 1 – Product Management
 
 As a warehouse manager
-I want to see current stock levels
-So that I know when to reorder products.
+I want to manage products (add, edit, delete)
+So that the inventory is always updated
 
-Story 4 – MANAGE CUSTOMERS
+ Shpjegim:
+Ky funksionalitet i lejon magazinierit të kontrollojë produktet në sistem. Kjo shmang gabimet dhe mban stokun korrekt.
+
+ User Card 2 – Sales Process
 
 As a sales employee
-I want to store customer information and purchase history
-So that I can provide better service.
+I want to register sales and generate invoices
+So that transactions are recorded properly
 
-Story 5 – FINANCIAL REPORTS
+ Shpjegim:
+Shitësi regjistron çdo shitje dhe sistemi krijon faturë automatikisht. Kjo rrit saktësinë dhe kursen kohë.
+
+ User Card 3 – Inventory Tracking
+
+As a warehouse manager
+I want to monitor stock levels
+So that I know when to reorder products
+
+ Shpjegim:
+Sistemi jep informacion në kohë reale për stokun dhe paralajmëron kur produktet mbarojnë.
+
+ User Card 4 – Customer Management
+
+As a sales employee
+I want to store customer data
+So that I can track purchase history
+
+ Shpjegim:
+Ruajtja e të dhënave të klientëve ndihmon në shërbim më të mirë dhe analizë të shitjeve.
+
+ User Card 5 – Financial Reports
 
 As an accountant
 I want to generate financial reports
-So that I can monitor profit and expenses.
-Zgjidhja Dixhitale për Rritjen e Biznesit
-Digital Solution for Business Growth
+So that I can analyze profit and expenses
+
+ Shpjegim:
+Financieri përdor sistemin për të parë fitimin, humbjet dhe për të marrë vendime financiare.
+
 
 The proposed system will digitalize the main operations of Hidrosanitare Agolli, including:
 
@@ -100,3 +113,5 @@ Allowing faster decision-making for management
 Improving communication between departments
 
 As a result, daily operations become faster, more accurate and more organized.
+
+
